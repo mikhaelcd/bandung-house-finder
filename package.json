@@ -1,0 +1,11 @@
+{
+  "name": "bandung-house-finder",
+  "version": "1.0.0",
+  "description": "Katalog Rekomendasi Rumah Pilihan Keluarga di Cimahi Selatan, Margaasih, dan Nanjung",
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": ["property", "bandung", "pinhome-dark", "family-house-finder"],
+  "author": "Hermes Agent",
+  "license": "MIT"
+}

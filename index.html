@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Pilihan Rumah 300-700 Jt | Margaasih, Cimahi & Nanjung</title>
+  
+  <!-- WhatsApp & Telegram Link Preview Meta Tags -->
+  <meta property="og:title" content="Rekomendasi Rumah Pilihan Keluarga (Cimahi Selatan, Margaasih, Nanjung)">
+  <meta property="og:description" content="Katalog rumah second & cluster 300-700 juta dengan kalkulasi sisa modal usaha mobil bekas, akses motor, dan analisis 3 kamar tidur.">
+  <meta property="og:type" content="website">
+  
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Sticky Top Header -->
+  <header class="app-header">
+    <div class="container">
+      <div class="brand-row">
+        <div class="brand-title">
+          <span>🏡 RumahPilihan</span>
+          <span class="brand-tag">Bandung Barat</span>
+        </div>
+        <div class="header-status">Budget: Rp 300 - 700 Jt</div>
+      </div>
+
+      <!-- Category Switcher (Pinhome Dark Style) -->
+      <nav class="category-tabs" aria-label="Kategori Rumah">
+        <button id="tabUsed" class="tab-btn active" type="button">
+          <span>Rumah Second (Utama)</span>
+          <span id="usedCountBadge" class="tab-badge">0</span>
+        </button>
+        <button id="tabNew" class="tab-btn" type="button">
+          <span>Cluster Baru / Indent</span>
+          <span id="newCountBadge" class="tab-badge">0</span>
+        </button>
+      </nav>
+
+      <!-- Quick Filter Chips -->
+      <div class="filter-bar">
+        <button class="filter-chip active" data-filter="all">Semua Listing</button>
+        <button class="filter-chip" data-filter="under500">&lt; Rp 500 Jt</button>
+        <button class="filter-chip" data-filter="range500_700">Rp 500 - 700 Jt</button>
+        <button class="filter-chip" data-filter="ready3kt">3+ Kamar Siap</button>
+        <button class="filter-chip" data-filter="cimahi">Cimahi Selatan (Sejuk)</button>
+        <button class="filter-chip" data-filter="margaasih">Margaasih &amp; Nanjung</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container" style="margin-top: 14px;">
+    
+    <!-- Context Banner for Family Discussion -->
+    <section class="meta-banner" aria-label="Ringkasan Kebutuhan Keluarga">
+      <strong>Catatan Kebutuhan Keluarga (4 Orang):</strong>
+      <ul class="meta-banner-list">
+        <li><strong>Kamar:</strong> 3 kamar tidur agar Ayah &amp; Ibu bersama, masing-masing anak punya kamar mandiri.</li>
+        <li><strong>Mobilitas:</strong> 2 orang motor (bebas macet Kopo Sayati), 2 orang mobil (akses dekat tol).</li>
+        <li><strong>Modal Bisnis:</strong> Selisih penjualan rumah TKI 1 (target Rp 700-720 Jt) dialokasikan untuk modal usaha mobil bekas Ayah.</li>
+      </ul>
+    </section>
+
+    <!-- Search Input -->
+    <div style="margin-bottom: 16px;">
+      <input 
+        type="search" 
+        id="searchInput" 
+        placeholder="Cari komplek, jalan, atau daerah (misal: Cibeber, Leuwigajah)..." 
+        style="width: 100%; background: var(--bg-card); border: 1px solid var(--border-hairline); border-radius: var(--radius-md); padding: 10px 14px; color: var(--text-primary); font-size: 0.88rem; outline: none;"
+      />
+    </div>
+
+    <!-- Listings Feed -->
+    <section id="listingsContainer" class="listings-feed" aria-live="polite">
+      <!-- Injected via JavaScript -->
+    </section>
+  </main>
+
+  <!-- Lightbox Modal for Photo Inspection -->
+  <div id="lightboxModal" class="lightbox-modal" role="dialog" aria-hidden="true">
+    <div class="lightbox-img-wrapper">
+      <button id="lightboxClose" class="lightbox-close" aria-label="Tutup foto">&times;</button>
+      <img id="lightboxImg" src="" alt="Pratinjau Foto Penuh">
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/app.js"></script>
+</body>
+</html>
