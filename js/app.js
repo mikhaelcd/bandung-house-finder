@@ -173,19 +173,13 @@ function createCardHTML(item) {
           </div>
         </div>
 
-        <!-- Evaluation Box: Family Fit & Business Capital Impact -->
+        <!-- Evaluation Box: Family Fit (3 Bedrooms) -->
         <div class="eval-box">
           <div class="eval-row">
             <div class="eval-title">
-              <span>🏠</span> Evaluasi Kebutuhan 4 Orang (3 Kamar)
+              <span>🏠</span> Evaluasi Ruang Keluarga (3 Kamar Tidur)
             </div>
             <div class="eval-desc">${item.family_fit_analysis}</div>
-          </div>
-          <div class="eval-row" style="margin-top:10px;">
-            <div class="eval-title business">
-              <span>🚗</span> Sisa Modal Usaha Mobil Bekas Ayah
-            </div>
-            <div class="eval-desc">${item.business_capital_impact}</div>
           </div>
         </div>
 

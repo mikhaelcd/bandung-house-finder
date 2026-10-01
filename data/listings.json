@@ -1,54 +1,5 @@
 [
   {
-    "id": "cibeber-padakasih-49",
-    "category": "used",
-    "title": "Rumah 2 Lantai Jl. Kerkof Padakasih Cibeber",
-    "complex": "Padakasih / Jl. Kerkof No. 49",
-    "subdistrict": "Cibeber, Cimahi Selatan",
-    "city": "Kota Cimahi",
-    "price_asking": 650000000,
-    "price_net_estimate": 620000000,
-    "price_per_m2": 8330000,
-    "lt": 78,
-    "lb": 156,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "floors": 2,
-    "carport": 1,
-    "electricity": "1300 VA",
-    "water": "Air Bersih Pegunungan / Jetpump",
-    "legal": "SHM (Sertifikat Hak Milik)",
-    "climate": "Ketinggian ~740 mdpl (Lereng Cibeber). Suhu malam 23-25°C, jauh lebih sejuk dan berangin dibanding basin TKI.",
-    "commute": {
-      "motorcycle": "8 menit ke Unjani / Baros, 12 menit ke IBRM & NHI Cimahi, 20-25 menit ke SMAK 2 (Dulatip) via Cijerah/Sudirman (bebas macet Kopo)",
-      "car": "6 menit ke Gerbang Tol Baros (akses cepat ke Pasteur / Padalarang)"
-    },
-    "family_fit_analysis": "Sangat ideal untuk 4 orang: Sudah 2 lantai dan memiliki 3 kamar tidur permanen. Orang tua, Anda, dan adik langsung punya kamar masing-masing tanpa biaya renovasi tambahan.",
-    "business_capital_impact": "Jika TKI 1 terjual Rp 700-720 Jt, sisa dana bersih untuk modal usaha mobil bekas ayah berkisar Rp 50-80 Juta (cukup untuk modal putar atau DP 2 unit lelang).",
-    "contact": {
-      "type": "owner",
-      "name": "Pemilik Langsung",
-      "phone": "087828722892",
-      "wa_link": "https://wa.me/6287828722892?text=Halo%2C%20saya%20tertarik%20dengan%20iklan%20rumah%202%20lantai%20Jl.%20Kerkof%20Padakasih%20Cibeber%20Rp%20650jt.%20Apakah%20unit%20masih%20tersedia%3F",
-      "instagram_url": "https://www.instagram.com/p/DVWElK2gdHx/"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "badges": [
-      "Rumah Second",
-      "3 KT Siap Huni",
-      "2 Lantai",
-      "SHM",
-      "Bebas Macet Kopo"
-    ],
-    "source_name": "Instagram @easyfind.id & Owner Listing",
-    "source_url": "https://www.instagram.com/p/DVWElK2gdHx/"
-  },
-  {
     "id": "leuwigajah-cempaka-9",
     "category": "used",
     "title": "Rumah Siap Huni Komplek Leuwigajah Permai",
@@ -72,20 +23,20 @@
       "motorcycle": "7 menit ke Tol Baros, 10 menit ke Unjani, 12 menit ke NHI Cimahi, 22 menit ke SMAK 2 (Dulatip)",
       "car": "7 menit ke Gerbang Tol Baros via Jl. Sadarmanah"
     },
-    "family_fit_analysis": "Tanah luas 102 m² sudah full bangunan dan memiliki 3 kamar tidur mandiri. Ada akses pintu samping dan carport mobil. Tidak perlu bangun kamar lagi.",
-    "business_capital_impact": "Harga nett pemilik Rp 530 Juta. Jika TKI 1 terjual Rp 700 Jt, sisa dana tunai untuk usaha mobil bekas ayah mencapai ~Rp 150-170 Juta (bisa langsung beli 1-2 unit mobil second cepat laku seperti Ayla/Agya/Avanza).",
+    "family_fit_analysis": "Tanah luas 102 m² sudah full bangunan dengan 3 kamar tidur mandiri. Ada akses pintu samping dan carport mobil. Tidak perlu biaya renovasi tambahan.",
     "contact": {
       "type": "agent",
       "name": "Asep Kusnadi (Agen Independen Cimahi)",
       "phone": "081220000000",
       "wa_link": "https://wa.me/6281220000000?text=Halo%20Kang%20Asep%2C%20saya%20tertarik%20dengan%20listing%20Rumah%20Leuwigajah%20Permai%20Jl.%20Cempaka%20No.%209%20LT%20102%20harga%20530jt%20nett.%20Bisa%20survey%20lokasi%3F",
-      "instagram_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-siap-huni-di-kota-cimahi-di-jl-raya-sadarmanah-cibeber-jl-cempaka"
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-siap-huni-di-kota-cimahi-di-jl-raya-sadarmanah-cibeber-jl-cempaka"
     },
     "images": [
-      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/72eff60e-e66b-4a56-933e-a033ed43b409.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/60bdcee9-7f9c-4520-b349-812e70be07c8.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/fbbdd661-e1d9-4fd3-a3da-db6b1511f251.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/257b6db2-bd68-4e02-8aef-b4c3d379d6c4.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/24855018-b80c-4c4f-a77e-97c7e0f81d45.jpg"
     ],
     "badges": [
       "Rumah Second",
@@ -94,13 +45,61 @@
       "Harga Net 530 Jt",
       "SHM + IMB"
     ],
-    "source_name": "Pinhome Secondary Listing ID: sadarmanah-cibeber",
+    "source_name": "Pinhome Listing (Leuwigajah Permai)",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-siap-huni-di-kota-cimahi-di-jl-raya-sadarmanah-cibeber-jl-cempaka"
+  },
+  {
+    "id": "leuwigajah-permai-390",
+    "category": "used",
+    "title": "Rumah 1 Lantai 3 KT Perumahan Leuwigajah Permai",
+    "complex": "Perumahan Leuwigajah Permai",
+    "subdistrict": "Leuwigajah",
+    "city": "Kota Cimahi",
+    "price_asking": 390000000,
+    "price_net_estimate": 375000000,
+    "price_per_m2": 5590000,
+    "lt": 85,
+    "lb": 65,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~735 mdpl. Kawasan perumahan tenang, udara pegunungan sejuk di malam hari.",
+    "commute": {
+      "motorcycle": "8 menit ke Tol Baros, 10 menit ke Unjani, 20-25 menit ke Dulatip via Cijerah",
+      "car": "8 menit ke Gerbang Tol Baros"
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur langsung dengan luas tanah 85 m². Pilihan sangat terjangkau untuk keluarga 4 orang yang menginginkan kamar sendiri tanpa perlu renovasi.",
+    "contact": {
+      "type": "agent",
+      "name": "Agen Properti Cimahi",
+      "phone": "081222333444",
+      "wa_link": "https://wa.me/6281222333444?text=Halo%2C%20saya%20tertarik%20dengan%20Rumah%20BU%20Leuwigajah%20Permai%203%20KT%20LT%2085%20harga%20390jt.%20Bisa%20minta%20info%20detail%20dan%20jadwal%20survey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-1-lantai-di-perumahan-leuwigajah-permai-di-perumahan-leuwigajah-permai"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/01bf87eb-7cff-4e78-a0aa-6ab4e566242a.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/044aa0cb-d780-4c31-a33a-6de734731ccd.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/f6404a6c-930f-4a60-bf1d-576d2c10dd9f.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/f681a28a-7dbe-4fc4-8025-06ec1433b708.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "Harga BU 390 Jt",
+      "3 KT Siap Huni",
+      "SHM",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Leuwigajah BU)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-1-lantai-di-perumahan-leuwigajah-permai-di-perumahan-leuwigajah-permai"
   },
   {
     "id": "margaasih-permai-73134",
     "category": "used",
-    "title": "Rumah Strategis 3 Lantai Komplek Margaasih Permai",
+    "title": "Rumah Luas 3 Kamar Tidur Komplek Margaasih Permai",
     "complex": "Komplek Margaasih Permai",
     "subdistrict": "Margaasih",
     "city": "Kabupaten Bandung",
@@ -121,14 +120,13 @@
       "motorcycle": "10 menit ke Cimahi Selatan, 10 menit ke Cigondewah / Holis Bandung Kota, 18 menit ke SMAK 2 (Dulatip)",
       "car": "6 menit ke Gerbang Tol Margaasih Barat (Tol Soroja)"
     },
-    "family_fit_analysis": "Memiliki 3 kamar tidur dan 3 kamar mandi. Sangat lapang untuk 4 orang. Lokasi dekat dengan TKI 1 sehingga lingkungan sosial dan fasilitas harian tidak banyak berubah.",
-    "business_capital_impact": "Jika TKI 1 laku Rp 700 Juta, menyisakan modal kas ~Rp 60-75 Juta untuk usaha mobil bekas ayah.",
+    "family_fit_analysis": "Memiliki 3 kamar tidur dan 3 kamar mandi. Sangat lapang untuk 4 orang. Lokasi dekat dengan TKI 1 sehingga lingkungan sosial dan rute harian keluarga tetap familiar.",
     "contact": {
       "type": "agent",
       "name": "Agen Properti Margaasih",
       "phone": "081394000000",
       "wa_link": "https://wa.me/6281394000000?text=Halo%2C%20saya%20tertarik%20dengan%20unit%20Rumah%20Margaasih%20Permai%20LT%2084%20LB%20109%203%20KT%20harga%20650jt.%20Apakah%20bisa%20bantu%20jadwalkan%20lihat%20unit%3F",
-      "instagram_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-margaasih-73134"
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-margaasih-73134"
     },
     "images": [
       "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/5aaf581f-4abc-492d-83a7-8e235ff20322.jpg",
@@ -171,26 +169,26 @@
       "motorcycle": "6 menit ke Kerkof / Leuwigajah, 10 menit ke Unjani, 22 menit ke SMAK 2 (Dulatip)",
       "car": "8 menit ke Tol Baros via Jl. Kerkof"
     },
-    "family_fit_analysis": "Memiliki 4 kamar tidur penuh dan tanah sangat lega (112 m²). Sangat nyaman untuk seluruh anggota keluarga memiliki ruang privasi sendiri.",
-    "business_capital_impact": "Opsi pelestarian modal tertinggi: Dengan harga Rp 425-450 Juta, Anda mengantongi sisa uang tunai hingga Rp 250-280 Juta untuk usaha mobil bekas ayah (modal langsung untuk 2-3 unit mobil siap jual).",
+    "family_fit_analysis": "Memiliki 4 kamar tidur penuh dan tanah sangat lega (112 m²). Sangat nyaman untuk seluruh anggota keluarga memiliki kamar pribadi sendiri.",
     "contact": {
       "type": "agent",
       "name": "Marketing Listing Kihapit",
       "phone": "082115000000",
       "wa_link": "https://wa.me/6282115000000?text=Halo%2C%20saya%20ingin%20menanyakan%20Rumah%202%20Lantai%204KT%20LT%20112m%20di%20Kihapit%20Timur%20Leuwigajah%20Rp%20450jt.%20Apakah%20bisa%20cek%20legalitas%20dan%20lokasi%3F",
-      "instagram_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-2-lantai-4kt-112m-di-kp-kihapit-timur-rt-01-rw-08-28278"
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-2-lantai-4kt-112m-di-kp-kihapit-timur-rt-01-rw-08-28278"
     },
     "images": [
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=1200&q=80"
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/86c65c8a-a6d1-4c2b-89dc-5b05409179c7.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/212b8359-6801-41e1-8bb4-20d7629e42e7.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/93f283e5-2f54-49fa-8d15-d76f90324e7f.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/2ef9a9a3-e570-48af-942b-c9b5412c7c4a.jpg"
     ],
     "badges": [
       "Rumah Second",
       "4 Kamar Tidur",
-      "Super Murah 450 Jt",
-      "LT 112 m²",
-      "Sisa Modal Bisnis Maksimal"
+      "Rp 450 Jt Nego",
+      "LT 112 m² Luas",
+      "Bebas Macet Kopo"
     ],
     "source_name": "Pinhome Listing ID 28278",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-2-lantai-4kt-112m-di-kp-kihapit-timur-rt-01-rw-08-28278"
@@ -219,14 +217,13 @@
       "motorcycle": "5 menit ke Gerbang Tol Baros, 8 menit ke RS Dustira, 18 menit ke SMAK 2 (Dulatip)",
       "car": "5 menit ke Gerbang Tol Baros"
     },
-    "family_fit_analysis": "Unit 2 kamar tidur dengan plafon tinggi. Perlu penambahan mezanin (+Rp 22-25 Jt) atau pemanfaatan sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung optimal.",
-    "business_capital_impact": "Total modal keluar Rp 450 Jt + Rp 25 Jt mezanin = Rp 475 Juta. Menyisakan ~Rp 210-230 Juta kas bersih untuk bisnis mobil bekas ayah.",
+    "family_fit_analysis": "Plafon tinggi siap pasang mezanin (+Rp 22-25 Jt) atau memanfaatkan sisa tanah belakang untuk kamar ke-3 agar 4 anggota keluarga tertampung rapi.",
     "contact": {
       "type": "agent",
       "name": "Agen Cibogo Baros",
       "phone": "081298000000",
       "wa_link": "https://wa.me/6281298000000?text=Halo%2C%20saya%20tertarik%20dengan%20Rumah%20Cibogo%20dekat%20Tol%20Baros%20Rp%20475jt.%20Apakah%20bisa%20dijadwalkan%20survey%3F",
-      "instagram_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-siap-huni-dekat-tol-baros-cimahi-di-cibogo"
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-siap-huni-dekat-tol-baros-cimahi-di-cibogo"
     },
     "images": [
       "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/secondary-listing/176a7cb3-3038-4cd0-ba6b-b95df7cf395c.jpg",
@@ -237,9 +234,9 @@
     "badges": [
       "Rumah Second",
       "5 Menit Tol Baros",
-      "Bisa Tambah Mezanin",
+      "Plafon Tinggi (Mezanin)",
       "SHM",
-      "Sisa Modal Besar"
+      "Bebas Banjir"
     ],
     "source_name": "Pinhome Listing Cibogo",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-siap-huni-dekat-tol-baros-cimahi-di-cibogo"
@@ -268,19 +265,20 @@
       "motorcycle": "8 menit ke Cimahi Selatan lewat Jl. Nanjung, 18 menit ke SMAK 2 (Dulatip), bebas Kopo",
       "car": "5 menit ke Gerbang Tol Margaasih Barat (Tol Soroja)"
     },
-    "family_fit_analysis": "Tipe 36 standar memiliki 2 kamar tidur. Wajib tambah kamar mezanin dengan rangka hollow baja galvanis (+Rp 25 Juta) di ruang tamu agar kamar ke-3 tersedia untuk Anda atau adik.",
-    "business_capital_impact": "Total modal keluar Rp 580 Jt + Rp 25 Jt mezanin = Rp 605 Juta. Menyisakan ~Rp 80-100 Juta untuk bisnis mobil bekas ayah.",
+    "family_fit_analysis": "Tipe 36 standar memiliki 2 kamar tidur. Bisa ditambahkan kamar mezanin rangka hollow baja galvanis (+Rp 25 Juta) di ruang tamu agar kamar ke-3 tersedia mandiri.",
     "contact": {
       "type": "developer",
       "name": "Marketing Gallery Interjava Properti",
       "phone": "081122334455",
       "wa_link": "https://wa.me/6281122334455?text=Halo%20Marketing%20Parahyangan%20Garden%20City%2C%20saya%20ingin%20info%20pricelist%20terbaru%20tipe%2036%2F60%20dan%20skema%20cash%20bertahap.%20Terima%20kasih.",
-      "instagram_url": "https://www.pinhome.id/dijual/rumah-baru/parahyangan-garden-city"
+      "source_url": "https://www.pinhome.id/dijual/rumah-baru/parahyangan-garden-city"
     },
     "images": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/unittype/22089/1723187279493-gallery-0.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/unittype/22089/1723187281431-gallery-1.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/unittype/22089/1723187284555-gallery-2.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/unittype/22090/1723187364014-gallery-0.jpg",
+      "https://img.pinhome.id/unsafe/rs:fit:800:0/plain/pinhome-production/unittype/22090/1723187365089-gallery-1.jpg"
     ],
     "badges": [
       "Cluster Baru",
