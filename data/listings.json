@@ -23,7 +23,7 @@
       "motorcycle": "7 menit ke Tol Baros, 10 menit ke Unjani, 12 menit ke NHI Cimahi, 22 menit ke SMAK 2 (Dulatip)",
       "car": "7 menit ke Gerbang Tol Baros via Jl. Sadarmanah"
     },
-    "family_fit_analysis": "Tanah luas 102 m² sudah full bangunan dengan 3 kamar tidur mandiri. Ada akses pintu samping dan carport mobil. Tidak perlu biaya renovasi tambahan.",
+    "family_fit_analysis": "Tanah luas 102 m\u00b2 sudah full bangunan dengan 3 kamar tidur mandiri. Ada akses pintu samping dan carport mobil. Tidak perlu biaya renovasi tambahan.",
     "contact": {
       "type": "agent",
       "name": "Asep Kusnadi (Agen Independen Cimahi)",
@@ -40,7 +40,7 @@
     ],
     "badges": [
       "Rumah Second",
-      "LT 102 m² Luas",
+      "LT 102 m\u00b2 Luas",
       "3 KT Siap Huni",
       "Harga Net 530 Jt",
       "SHM + IMB"
@@ -72,7 +72,7 @@
       "motorcycle": "8 menit ke Tol Baros, 10 menit ke Unjani, 20-25 menit ke Dulatip via Cijerah",
       "car": "8 menit ke Gerbang Tol Baros"
     },
-    "family_fit_analysis": "Sudah memiliki 3 kamar tidur langsung dengan luas tanah 85 m². Pilihan sangat terjangkau untuk keluarga 4 orang yang menginginkan kamar sendiri tanpa perlu renovasi.",
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur langsung dengan luas tanah 85 m\u00b2. Pilihan sangat terjangkau untuk keluarga 4 orang yang menginginkan kamar sendiri tanpa perlu renovasi.",
     "contact": {
       "type": "agent",
       "name": "Agen Properti Cimahi",
@@ -169,7 +169,7 @@
       "motorcycle": "6 menit ke Kerkof / Leuwigajah, 10 menit ke Unjani, 22 menit ke SMAK 2 (Dulatip)",
       "car": "8 menit ke Tol Baros via Jl. Kerkof"
     },
-    "family_fit_analysis": "Memiliki 4 kamar tidur penuh dan tanah sangat lega (112 m²). Sangat nyaman untuk seluruh anggota keluarga memiliki kamar pribadi sendiri.",
+    "family_fit_analysis": "Memiliki 4 kamar tidur penuh dan tanah sangat lega (112 m\u00b2). Sangat nyaman untuk seluruh anggota keluarga memiliki kamar pribadi sendiri.",
     "contact": {
       "type": "agent",
       "name": "Marketing Listing Kihapit",
@@ -187,7 +187,7 @@
       "Rumah Second",
       "4 Kamar Tidur",
       "Rp 450 Jt Nego",
-      "LT 112 m² Luas",
+      "LT 112 m\u00b2 Luas",
       "Bebas Macet Kopo"
     ],
     "source_name": "Pinhome Listing ID 28278",
@@ -289,5 +289,973 @@
     ],
     "source_name": "Pinhome Official Developer Listing",
     "source_url": "https://www.pinhome.id/dijual/rumah-baru/parahyangan-garden-city"
+  },
+  {
+    "id": "dijual-rumah-baros-cimahi-10-menit-gerba",
+    "category": "used",
+    "title": "Dijual Rumah Baros Cimahi 10 Menit Gerbang Tol Baros Murah di Jalan Baros",
+    "complex": "Jalan Baros",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 600000000,
+    "price_net_estimate": 570000000,
+    "price_per_m2": 8219178,
+    "lt": 73,
+    "lb": 120,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Aris  Glibal",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Aris%20%20Glibal%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Baros%20Cimahi%2010%20Menit%20Gerbang%20Tol%20Baros%20Murah%20di%20Jalan%20Baros%20seharga%20Rp%20600%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-baros-cimahi-10-menit-gerbang-tol-baros-murah-di-jalan-baros"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/8f2adbdf-ada7-492f-a339-52cee5cec119.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/464764a0-6fc0-4f5c-aa7e-d1f868186927.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/693e3ba3-aef7-4e31-9cb3-2d8fc2cea8c0.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/85ab407c-6822-4683-bc18-345beb0eea1f.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/19c93ddf-665e-4256-b8f1-a9f04224b908.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/dcb53c2d-a44f-45df-8d8a-ec792e0f109e.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 73 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Aris  Glibal)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-baros-cimahi-10-menit-gerbang-tol-baros-murah-di-jalan-baros"
+  },
+  {
+    "id": "dijual-rumah-di-leuwigajah-cimahi-2",
+    "category": "used",
+    "title": "Dijual Rumah Dp 0% di Leuwigajah Cimahi",
+    "complex": "Leuwigajah Cimahi",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 403000000,
+    "price_net_estimate": 382850000,
+    "price_per_m2": 6716666,
+    "lt": 60,
+    "lb": 30,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 60 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Andrian",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Andrian%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Dp%200%25%20di%20Leuwigajah%20Cimahi%20seharga%20Rp%20403%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-leuwigajah-cimahi-2"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/16661873-50cb-4397-ad7f-206dcb48b99a.png",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/0f8e0b59-4c38-4747-8ca7-ee2dfcd9a149.png",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/9987c1f5-4682-4fb7-9a85-d670314ea5a9.png",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/4883f7af-b86b-496a-bbb7-06c0c17570ec.JPG",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/66ac26a0-a0d9-43f5-b20f-ecedc0c98370.JPG",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/47762df1-173d-429d-9388-ebc862973ede.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 60 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Andrian)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-leuwigajah-cimahi-2"
+  },
+  {
+    "id": "dijual-rumah-murah-dalam-komplek-di-pond",
+    "category": "used",
+    "title": "Dijual Rumah Murah Dalam Komplek di Pondok Cipta Mas",
+    "complex": "Pondok Cipta Mas",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 649000000,
+    "price_net_estimate": 616550000,
+    "price_per_m2": 6180952,
+    "lt": 105,
+    "lb": 40,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Al Barra",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Al%20Barra%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Murah%20Dalam%20Komplek%20di%20Pondok%20Cipta%20Mas%20seharga%20Rp%20649%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-dalam-komplek-di-pondok-cipta-mas"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/6b457237-5324-43b8-8c35-4db6476409a0.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/802bc68e-bf5d-4f71-9d73-0c92624f8e2e.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/2e584e36-94ab-4879-8cff-26429413bd4e.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/3f2a6bc1-cc9e-4088-9cdf-99441a29de54.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 105 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Al Barra)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-dalam-komplek-di-pondok-cipta-mas"
+  },
+  {
+    "id": "dijual-rumah-murah-siap-huni-di-jalan-ci",
+    "category": "used",
+    "title": "Dijual Rumah Murah Siap Huni di Jalan Cibogo Kerkof",
+    "complex": "Jalan Cibogo Kerkof",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 450000000,
+    "price_net_estimate": 427500000,
+    "price_per_m2": 7031250,
+    "lt": 64,
+    "lb": 36,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 64 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Al Barra",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Al%20Barra%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Murah%20Siap%20Huni%20di%20Jalan%20Cibogo%20Kerkof%20seharga%20Rp%20450%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-siap-huni-di-jalan-cibogo-kerkof"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/e199effa-deb1-43c1-a239-8234fb5918bb.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/e868f680-df8f-485d-a7ec-6a19e477a30e.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/a94004c6-396e-4fcc-aa4c-8ae6ebdaf6b8.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/6752191c-18be-4f23-822a-7ef18e37671d.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/7eb80859-50de-4126-97a9-8e3e8cc8a70b.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/1a4b2f35-d8d4-4598-bd1e-6fc850dee557.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 64 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Al Barra)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-siap-huni-di-jalan-cibogo-kerkof"
+  },
+  {
+    "id": "dijual-rumah-lokasi-strategis-di-jln-kih",
+    "category": "used",
+    "title": "Dijual Rumah Lokasi Strategis di Jln Kihapit Barat Rt 10 Rw 09. No 84",
+    "complex": "Jln Kihapit Barat Rt 10 Rw 09. No 84",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 500000000,
+    "price_net_estimate": 475000000,
+    "price_per_m2": 4464285,
+    "lt": 112,
+    "lb": 81,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 112 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Iman nurhaliman",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Iman%20nurhaliman%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Lokasi%20Strategis%20di%20Jln%20Kihapit%20Barat%20Rt%2010%20Rw%2009.%20No%2084%20seharga%20Rp%20500%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-lokasi-strategis-di-jln-kihapit-barat-rt-10-rw-09-no-84"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/f2d5b154-9f1c-4004-a81b-38fabe199f89.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/74f7ee5b-4034-4420-b2dd-76a5d30981a6.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/afc97570-384b-47d3-b204-5da20efc1d2a.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/90b6ca10-291f-456f-8fae-64e5d78ef930.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/fcd7434b-9ff7-4842-940d-efba794031e0.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/09b0d2aa-92dc-41ad-9528-94f16e362e07.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 112 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Iman nurhaliman)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-lokasi-strategis-di-jln-kihapit-barat-rt-10-rw-09-no-84"
+  },
+  {
+    "id": "dijual-rumah-di-jl-cibogo-leuwigajah-cim",
+    "category": "used",
+    "title": "Dijual Rumah Baru Siap Pakai, Harga Terbaik di Jl Cibogo Leuwigajah Cimahi Selatan Cimahi",
+    "complex": "Jl Cibogo Leuwigajah Cimahi Selatan Cimahi",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 750000000,
+    "price_net_estimate": 712500000,
+    "price_per_m2": 5769230,
+    "lt": 130,
+    "lb": 90,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Asep Sutiana",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Asep%20Sutiana%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Baru%20Siap%20Pakai%2C%20Harga%20Terbaik%20di%20Jl%20Cibogo%20Leuwigajah%20Cimahi%20Selatan%20Cimahi%20seharga%20Rp%20750%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jl-cibogo-leuwigajah-cimahi-selatan-cimahi-1"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/c1e0449d-0700-4bb0-92be-ebbb97df7b18.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/1fd23b97-86fd-4eba-bf0d-311d72ad3163.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/be21bdb8-3d44-4537-a31c-17591fe5bfef.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/3042025e-707f-4117-977e-45d79ff79966.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/fd8c3861-3649-4282-8375-d213040deed6.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/00154aa9-ef42-41b2-873c-55aaed42139d.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 130 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Asep Sutiana)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jl-cibogo-leuwigajah-cimahi-selatan-cimahi-1"
+  },
+  {
+    "id": "dijual-rumah-dp-0-di-leuwigajah-cimahi",
+    "category": "used",
+    "title": "Dijual Rumah Dp 0% Dekat Tol di Leuwigajah Cimahi Kriya Mahacitra",
+    "complex": "Leuwigajah Cimahi Kriya Mahacitra",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 403000000,
+    "price_net_estimate": 382850000,
+    "price_per_m2": 6716666,
+    "lt": 60,
+    "lb": 30,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 60 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Andrian",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Andrian%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Dp%200%25%20Dekat%20Tol%20di%20Leuwigajah%20Cimahi%20Kriya%20Mahacitra%20seharga%20Rp%20403%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dp-0-di-leuwigajah-cimahi"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/eb2f6d2d-0463-4b48-9a08-29e3d72844c8.png",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b322daf9-ccb7-4fb4-b28b-a51f46d1a59e.png",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b609a81d-4c38-4adb-9380-94a0bf5af51f.JPG",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/ba57b04e-ecee-439e-b4cb-bac4b992aa57.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/93d2775f-34bd-48aa-9f26-bc228368c660.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/25ee47c9-8c36-4c1f-b011-779a82833f4a.JPG"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 60 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Andrian)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dp-0-di-leuwigajah-cimahi"
+  },
+  {
+    "id": "dijual-rumah-20menit-dari-cimahi-kota-di",
+    "category": "used",
+    "title": "Dijual Rumah 20menit Dari Cimahi Kota di Jalan Raya Pangauban",
+    "complex": "Jalan Raya Pangauban",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 330000000,
+    "price_net_estimate": 313500000,
+    "price_per_m2": 4583333,
+    "lt": 72,
+    "lb": 30,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 72 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Dede Witarsa",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Dede%20Witarsa%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%2020menit%20Dari%20Cimahi%20Kota%20di%20Jalan%20Raya%20Pangauban%20seharga%20Rp%20330%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-20menit-dari-cimahi-kota-di-jalan-raya-pangauban"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/89cf33a5-1359-438c-8156-74283b3cc444.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/466dcde7-0edb-4e0e-a7e5-079568209d85.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/0acb73e4-f5fa-4698-8a3c-6b95113386d8.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/f06631af-80c2-451e-8350-9d57571074ab.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/096b8fad-8eb3-4faa-a63d-0b3dda246991.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/aef28747-9858-4a08-bbd8-fc1452125438.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 72 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Dede Witarsa)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-20menit-dari-cimahi-kota-di-jalan-raya-pangauban"
+  },
+  {
+    "id": "dijual-rumah-di-jalan-cibogo",
+    "category": "used",
+    "title": "Dijual Rumah 1 Lantai 5KT 146m\u00b2 di Jalan Cibogo",
+    "complex": "Jalan Cibogo",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 575000000,
+    "price_net_estimate": 546250000,
+    "price_per_m2": 3938356,
+    "lt": 146,
+    "lb": 146,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 5 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "amalia",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20amalia%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%201%20Lantai%205KT%20146m%C2%B2%20di%20Jalan%20Cibogo%20seharga%20Rp%20575%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jalan-cibogo"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/047d1977-6771-4ab4-b608-b6dedcf905c5.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/40fdc96c-2934-45f8-ae24-473e56d81254.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/ba88ebc1-4edc-4c98-90fb-47acce9a7034.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/5c3980a0-7800-4c26-aec5-4487ba987a86.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/57a570e0-8658-4187-829a-78a1aa4b7791.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/1af25946-5725-4aca-95fa-f20eaa3694cf.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "5 KT Siap Huni",
+      "LT 146 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (amalia)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jalan-cibogo"
+  },
+  {
+    "id": "dijual-rumah-rasa-villa-dekat-unjani-aks",
+    "category": "used",
+    "title": "Dijual Rumah Rasa Villa Dekat UNJANi Akses Exit Tol Baros di Leuwigajah",
+    "complex": "Kawasan Strategis",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 330000000,
+    "price_net_estimate": 313500000,
+    "price_per_m2": 4583333,
+    "lt": 72,
+    "lb": 36,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 72 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Aa badru",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Aa%20badru%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Rasa%20Villa%20Dekat%20UNJANi%20Akses%20Exit%20Tol%20Baros%20di%20Leuwigajah%20seharga%20Rp%20330%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-rasa-villa-dekat-unjani-akses-exit-tol-baros-di-baros"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/423ebef6-4e05-47ee-a37d-2048a8e04ba2.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/e23284ed-8301-4b60-987f-b1e5aef1784f.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/910d3949-d156-4810-97e3-5d32fd1ef14c.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/222f660d-5ceb-4db3-8eaf-71142abe1522.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/2d008d9e-add7-4465-81c6-d79a563569a2.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/a13eb667-4a19-483c-a674-18b6b5cefeb3.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 72 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Aa badru)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-rasa-villa-dekat-unjani-akses-exit-tol-baros-di-baros"
+  },
+  {
+    "id": "dijual-rumah-di-jl-masjid-nurul-huda-rt0",
+    "category": "used",
+    "title": "Dijual Rumah MURAH di Jl Masjid Nurul Huda RT06/07 Cibogo Leuwiga",
+    "complex": "Jl Masjid Nurul Huda Rt06/07 Cibogo Leuwiga",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 350000000,
+    "price_net_estimate": 332500000,
+    "price_per_m2": 3571428,
+    "lt": 98,
+    "lb": 36,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 98 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Jajang kurniawan",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Jajang%20kurniawan%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20MURAH%20di%20Jl%20Masjid%20Nurul%20Huda%20RT06/07%20Cibogo%20Leuwiga%20seharga%20Rp%20350%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jl-masjid-nurul-huda-rt06-07-cibogo-leuwiga"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/9b5698dc-605c-4804-972b-3dde12bcd47c.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/d0e71972-a5fe-47dc-b98f-f7777c3260a2.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/03538348-4773-4775-8a9e-f20400d0bcd6.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/d95881ad-d763-486a-856b-bf5dc188f4e5.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/eb98aabc-a2e4-459f-828e-2c749a413d2d.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/c6918fb4-e125-4e1b-a1b0-c91b7002f474.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 98 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Jajang kurniawan)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jl-masjid-nurul-huda-rt06-07-cibogo-leuwiga"
+  },
+  {
+    "id": "dijual-rumah-dekat-tol-baros-cimahi-di-j",
+    "category": "used",
+    "title": "Dijual Rumah Dekat Tol Baros Cimahi di Jalan Baros",
+    "complex": "Jalan Baros",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 600000000,
+    "price_net_estimate": 570000000,
+    "price_per_m2": 8219178,
+    "lt": 73,
+    "lb": 120,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "AL Barra",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20AL%20Barra%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Dekat%20Tol%20Baros%20Cimahi%20di%20Jalan%20Baros%20seharga%20Rp%20600%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dekat-tol-baros-cimahi-di-jalan-baros"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/ad4b7cc6-ca6a-40c7-9053-2b938223dacf.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/d915125f-5eca-4954-9395-3c72bc166209.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/293a8ad7-5ec6-45bc-88fa-1f6cce0bd3e2.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/da238e9b-a96c-485a-9f0c-9346fd3877cf.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/37fec0f7-fc3a-446a-926a-2bfb0d453a67.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/2b375c29-7298-495b-8d4f-89eedece8434.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 73 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (AL Barra)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dekat-tol-baros-cimahi-di-jalan-baros"
+  },
+  {
+    "id": "dijual-rumah-lokasi-strategis-bebas-banj",
+    "category": "used",
+    "title": "Dijual Rumah Lokasi Strategis Bebas Banjir di Komplek Lewigajah Boros Cimahi",
+    "complex": "Komplek Lewigajah Boros Cimahi",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 550000000,
+    "price_net_estimate": 522500000,
+    "price_per_m2": 3666666,
+    "lt": 150,
+    "lb": 100,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Eko  Duta Pro Cimahi",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Eko%20%20Duta%20Pro%20Cimahi%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Lokasi%20Strategis%20Bebas%20Banjir%20di%20Komplek%20Lewigajah%20Boros%20Cimahi%20seharga%20Rp%20550%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-lokasi-strategis-bebas-banjir-di-komplek-lewigajah-boros-cimahi"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/4e84ce35-c80f-4152-aaff-ce15f80a9b42.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/bedefd93-f12d-445f-bc6d-6c19861fbfaa.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/fa8a642c-f3f4-4075-89df-e62594dc33dc.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/443fed91-ba0f-459d-bbac-17e750cf8fa4.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/5b232d24-c388-42cb-9566-1b210adfd7e8.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/38b66302-7121-4f91-9d78-f4d49ea9a38c.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 150 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Eko  Duta Pro Cimahi)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-lokasi-strategis-bebas-banjir-di-komplek-lewigajah-boros-cimahi"
+  },
+  {
+    "id": "dijual-rumah-di-dalam-komplek-leuwigajah",
+    "category": "used",
+    "title": "Dijual Rumah Di Dalam Komplek Leuwigajah di Komplek Leuwigajah",
+    "complex": "Komplek Leuwigajah",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 550000000,
+    "price_net_estimate": 522500000,
+    "price_per_m2": 3666666,
+    "lt": 150,
+    "lb": 100,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Susan Apriyanti",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Susan%20Apriyanti%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Di%20Dalam%20Komplek%20Leuwigajah%20di%20Komplek%20Leuwigajah%20seharga%20Rp%20550%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-dalam-komplek-leuwigajah-di-komplek-leuwigajah"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/c7ef48e9-24b3-4a07-bccc-b3d93b2fbf43.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/3c506047-eb07-400c-9aad-fb0c9ae559a2.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/9a759722-fa6b-4da8-a9d6-585243a9f90c.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/960c9d24-a1b5-422b-ba0c-674c8a413e92.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/141f67eb-4e47-4547-8527-f1165f2b2d38.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/4aac7d53-3c37-4918-a0ba-a58bb6cce3d0.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 150 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Susan Apriyanti)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-dalam-komplek-leuwigajah-di-komplek-leuwigajah"
+  },
+  {
+    "id": "dijual-rumah-2-lantai-murah-di-bandung-d",
+    "category": "used",
+    "title": "Dijual Rumah 2 Lantai Murah Di Bandung di Almaas 4",
+    "complex": "Almaas 4",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 475200000,
+    "price_net_estimate": 451440000,
+    "price_per_m2": 7920000,
+    "lt": 60,
+    "lb": 60,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 2,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 60 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "feri  almaas",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20feri%20%20almaas%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%202%20Lantai%20Murah%20Di%20Bandung%20di%20Almaas%204%20seharga%20Rp%20475%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-2-lantai-murah-di-bandung-di-almaas-4-8"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/39a783c6-27d8-40d5-889d-e2dcdc5d5ffb.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/09240476-4b7f-4ed4-b43d-bd45335aa5a2.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/e892b551-9614-4c70-b720-e0fc7d7ec97b.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/bdbde9b1-d86b-4d2d-8325-f62922e0f590.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b80b2fae-c738-48db-a170-4c96f2cbc5da.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b608b638-570c-4783-a11f-d32143dc2fa3.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "2 Lantai",
+      "LT 60 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (feri  almaas)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-2-lantai-murah-di-bandung-di-almaas-4-8"
+  },
+  {
+    "id": "dijual-rumah-murah-di-komplek-cijerah-ci",
+    "category": "used",
+    "title": "Dijual Rumah Murah Di Komplek Cijerah Cimahi Dkt Tol Pasir Koja di Jl. Cijerah",
+    "complex": "Jl. Cijerah",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 595000000,
+    "price_net_estimate": 565250000,
+    "price_per_m2": 6918604,
+    "lt": 86,
+    "lb": 65,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 86 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Susi Aryanti",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Susi%20Aryanti%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Murah%20Di%20Komplek%20Cijerah%20Cimahi%20Dkt%20Tol%20Pasir%20Koja%20di%20Jl.%20Cijerah%20seharga%20Rp%20595%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-di-komplek-cijerah-cimahi-dkt-tol-pasir-koja-di-jl-cijerah"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/1fa17be6-6a84-422c-9758-1bcc2febf3f0.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/460f2bda-7f80-4c77-bf21-7c371469e7f3.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b0c1e1b4-9891-4941-ac9d-414af5d03c58.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/4ebfa813-92f7-4563-a16a-e2fc6b43930a.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/306381ad-ac6c-47d1-b843-6b98d2d4b9a8.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/eec6a76e-1703-4b97-81e0-ea4095972d3d.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 86 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Susi Aryanti)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-di-komplek-cijerah-cimahi-dkt-tol-pasir-koja-di-jl-cijerah"
+  },
+  {
+    "id": "dijual-rumah-sangat-bagus-untuk-investas",
+    "category": "used",
+    "title": "Dijual Rumah Sangat Bagus Untuk Investasi 3 Menit Ke Stasiun di Jl.ciloa",
+    "complex": "Jl.Ciloa",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 700000000,
+    "price_net_estimate": 665000000,
+    "price_per_m2": 7777777,
+    "lt": 90,
+    "lb": 70,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Arch Leproperty",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Arch%20Leproperty%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Sangat%20Bagus%20Untuk%20Investasi%203%20Menit%20Ke%20Stasiun%20di%20Jl.ciloa%20seharga%20Rp%20700%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-sangat-bagus-untuk-investasi-3-menit-ke-stasiun-di-jlciloa"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/c36866a2-914f-43b0-aa9b-9a0662b10a40.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/44a9a1bc-a114-4602-8f3a-ad9e0571d76a.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/d74e5e02-0b98-44ea-a5d5-b26e3e48e942.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/ee830e9e-1659-44ea-91c4-7394b1a1ef40.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/f0080e3f-5486-4ffd-a948-04c8bd2961f0.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/73bd361b-853c-4963-8d86-974d42209ee8.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 90 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Arch Leproperty)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-sangat-bagus-untuk-investasi-3-menit-ke-stasiun-di-jlciloa"
+  },
+  {
+    "id": "dijual-rumah-baru-murah-siap-huni-di-kot",
+    "category": "used",
+    "title": "Dijual Rumah Baru, Murah Siap Huni, Di Kota Baru Parahyangan di Jl. Cikande Bojong Haleuang",
+    "complex": "Jl. Cikande Bojong Haleuang",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 400000000,
+    "price_net_estimate": 380000000,
+    "price_per_m2": 5479452,
+    "lt": 73,
+    "lb": 36,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 73 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Arch Leproperty",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Arch%20Leproperty%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Baru%2C%20Murah%20Siap%20Huni%2C%20Di%20Kota%20Baru%20Parahyangan%20di%20Jl.%20Cikande%20Bojong%20Haleuang%20seharga%20Rp%20400%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-baru-murah-siap-huni-di-kota-baru-parahyangan-di-jl-cikande-bojong-haleuang-1"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/cb0216fc-7178-4c66-b134-c183120d3177.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/97088cbe-338e-416f-b300-f0835383eb63.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/56278134-f6df-4613-9dbe-1c944a826d0c.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/a2c986f3-e7ea-4ec2-a7b8-668802ea87e4.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/15ba5d12-d675-4e0b-921d-4abd76957c32.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/18c61f79-7622-41f4-8525-d3a8c7265f7f.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 73 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Arch Leproperty)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-baru-murah-siap-huni-di-kota-baru-parahyangan-di-jl-cikande-bojong-haleuang-1"
+  },
+  {
+    "id": "dijual-rumah-3-lantai-untuk-tempat-tingg",
+    "category": "used",
+    "title": "Dijual Rumah 3 Lantai Untuk Tempat Tinggal dan Kos-kosan di Cibogo Permai",
+    "complex": "Cibogo Permai",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 699000000,
+    "price_net_estimate": 664050000,
+    "price_per_m2": 7206185,
+    "lt": 97,
+    "lb": 200,
+    "bedrooms": 7,
+    "bathrooms": 5,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 7 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Eko  Duta Pro Cimahi",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Eko%20%20Duta%20Pro%20Cimahi%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%203%20Lantai%20Untuk%20Tempat%20Tinggal%20dan%20Kos-kosan%20di%20Cibogo%20Permai%20seharga%20Rp%20699%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-3-lantai-untuk-tempat-tinggal-dan-kos-kosan-di-cibogo-permai"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/deb33bc2-f6f8-4b50-a77b-898aa142bf00.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/f5a1bf4f-cae7-4d7a-a808-46c1bf647b22.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b2ae7f82-9541-4161-8741-b8471bb74a28.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/071f80a1-0a41-4edc-b133-1875241b349d.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/3a13dca3-60e7-4a78-8d85-31be151649ce.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/e1f064ec-f406-4436-b5d5-be37da7ddda1.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "7 KT Siap Huni",
+      "LT 97 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Eko  Duta Pro Cimahi)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-3-lantai-untuk-tempat-tinggal-dan-kos-kosan-di-cibogo-permai"
+  },
+  {
+    "id": "dijual-rumah-tempat-tinggal-dan-warung-s",
+    "category": "used",
+    "title": "Dijual Rumah Tempat Tinggal dan Warung Sangat Strategis di Baros Cimahi",
+    "complex": "Baros Cimahi",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 350000000,
+    "price_net_estimate": 332500000,
+    "price_per_m2": 6481481,
+    "lt": 54,
+    "lb": 100,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 54 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Eko  Duta Pro Cimahi",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Eko%20%20Duta%20Pro%20Cimahi%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Tempat%20Tinggal%20dan%20Warung%20Sangat%20Strategis%20di%20Baros%20Cimahi%20seharga%20Rp%20350%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-tempat-tinggal-dan-warung-sangat-strategis-di-baros-cimahi"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/3c3f607d-87fc-4d32-b355-783e32540dfb.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/62557b7a-edbd-4c13-9807-d24d7c340430.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/68483992-4083-4a78-8804-5f232865925d.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/04b34ff9-3123-46ce-998a-246f8434c872.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/31066b39-603e-47fe-871f-107cf2c6553f.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/d990a6dc-c61e-4fd8-b146-ac7ab2408784.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 54 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Eko  Duta Pro Cimahi)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-tempat-tinggal-dan-warung-sangat-strategis-di-baros-cimahi"
   }
 ]
