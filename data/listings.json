@@ -4765,5 +4765,51 @@
     ],
     "source_name": "Pinhome Listing (Hartanto)",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-cluster-minimalis-best-price-di-soreang-bandung-dkt-pintu-tol-16rg3"
+  },
+  {
+    "id": "dijual-rumah-murah-di-komplek-pharmindo-",
+    "category": "used",
+    "title": "Dijual Rumah Murah di Komplek Pharmindo Jl. Trowulan",
+    "complex": "Komplek Pharmindo Jl. Trowulan",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 585000000,
+    "price_net_estimate": 555750000,
+    "price_per_m2": 3046875,
+    "lt": 192,
+    "lb": 192,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 4 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Fred",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Fred%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Murah%20di%20Komplek%20Pharmindo%20Jl.%20Trowulan%20seharga%20Rp%20585%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-di-komplek-pharmindo-jl-trowulan"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/bdce76ba-0e1e-412c-86da-1489f9bdcfec.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/bb556145-fff1-4c2e-9088-6f902d2f501e.jpeg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b1da695a-9959-41cc-8458-03ba8293efba.jpeg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "4 KT Siap Huni",
+      "LT 192 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Fred)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-di-komplek-pharmindo-jl-trowulan"
   }
 ]
