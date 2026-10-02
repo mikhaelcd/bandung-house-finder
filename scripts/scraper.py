@@ -241,13 +241,6 @@ def run_scraper(max_new=25):
         env = os.environ.copy()
         env["PATH"] = f"/root/.hermes/tools/node-26.7.0-linux-x64/bin:{env.get('PATH', '')}"
         token = os.environ.get("VERCEL_TOKEN")
-        auth_file = "/root/.local/share/com.vercel.cli/auth.json"
-        if not token and os.path.exists(auth_file):
-            try:
-                with open(auth_file) as af:
-                    token = json.load(af).get("token")
-            except Exception:
-                pass
         cmd = ["vercel", "deploy", "--prod", "--yes"]
         if token:
             cmd.extend(["--token", token])
