@@ -4811,5 +4811,54 @@
     ],
     "source_name": "Pinhome Listing (Fred)",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-murah-di-komplek-pharmindo-jl-trowulan"
+  },
+  {
+    "id": "dijual-rumah-dengan-view-cantik-di-dekat",
+    "category": "used",
+    "title": "Dijual Rumah Dengan View Cantik Di Dekat Gunung Bohong di Jalan Ibu Ganirah Gg Nurasik",
+    "complex": "Jalan Ibu Ganirah Gg Nurasik",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 700000000,
+    "price_net_estimate": 665000000,
+    "price_per_m2": 4964539,
+    "lt": 141,
+    "lb": 141,
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 6 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Dio Gindara",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Dio%20Gindara%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Dengan%20View%20Cantik%20Di%20Dekat%20Gunung%20Bohong%20di%20Jalan%20Ibu%20Ganirah%20Gg%20Nurasik%20seharga%20Rp%20700%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dengan-view-cantik-di-dekat-gunung-bohong-di-jalan-ibu-ganirah-gg-nurasik"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/50261992-2618-4e85-8258-309e5d41fa87.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/88ef4ff9-06f8-4bcb-be48-c71cf5099568.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/1a9571bb-2b07-4fe3-bb3a-0b0c38f8ce50.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/156bef47-d607-4804-989c-4d205e9614fe.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/98306242-7581-486b-b77b-85702338428c.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/0be9aaaa-ccf5-4585-92b4-8f86fb544acd.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "6 KT Siap Huni",
+      "LT 141 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Dio Gindara)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dengan-view-cantik-di-dekat-gunung-bohong-di-jalan-ibu-ganirah-gg-nurasik"
   }
 ]
