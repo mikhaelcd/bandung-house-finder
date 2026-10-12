@@ -241,7 +241,7 @@ def run_scraper(max_new=25):
         env = os.environ.copy()
         env["PATH"] = f"/root/.hermes/tools/node-26.7.0-linux-x64/bin:{env.get('PATH', '')}"
         token = os.environ.get("VERCEL_TOKEN")
-        cmd = ["vercel", "deploy", "--prod", "--yes"]
+        cmd = ["vercel", "deploy", "--prod", "--yes", "--scope", "team_AsJHVBelMrDdwUfw2EgNP7UZ"]
         if token:
             cmd.extend(["--token", token])
         deploy_res = subprocess.run(cmd, env=env, capture_output=True, text=True)
