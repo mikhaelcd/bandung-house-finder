@@ -4860,5 +4860,50 @@
     ],
     "source_name": "Pinhome Listing (Dio Gindara)",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-dengan-view-cantik-di-dekat-gunung-bohong-di-jalan-ibu-ganirah-gg-nurasik"
+  },
+  {
+    "id": "dijual-rumah-di-jlkerkop-kpkihapit-barat",
+    "category": "used",
+    "title": "Dijual Rumah 1 Lantai 3KT 70m\u00b2 di Jl.Kerkop Kp.Kihapit Barat Rt09/Rw09 No.82",
+    "complex": "Jl.Kerkop Kp.Kihapit Barat Rt09/Rw09 No.82",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 380000000,
+    "price_net_estimate": 361000000,
+    "price_per_m2": 5428571,
+    "lt": 70,
+    "lb": 56,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Sudah memiliki 3 kamar tidur permanen. Sangat pas untuk 4 orang (Ayah, Ibu, dan anak-anak masing-masing punya kamar sendiri tanpa perlu renovasi).",
+    "contact": {
+      "type": "agent",
+      "name": "Rizky Hanifah",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Rizky%20Hanifah%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%201%20Lantai%203KT%2070m%C2%B2%20di%20Jl.Kerkop%20Kp.Kihapit%20Barat%20Rt09/Rw09%20No.82%20seharga%20Rp%20380%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jlkerkop-kpkihapit-barat-rt09-rw09-no82"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/b611137a-59c6-4e05-8266-75b43548ce40.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/7cb65390-b2eb-4af4-bf2c-522f5d6af69d.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "3 KT Siap Huni",
+      "LT 70 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Rizky Hanifah)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jlkerkop-kpkihapit-barat-rt09-rw09-no82"
   }
 ]
