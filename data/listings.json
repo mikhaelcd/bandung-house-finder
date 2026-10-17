@@ -4905,5 +4905,53 @@
     ],
     "source_name": "Pinhome Listing (Rizky Hanifah)",
     "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-di-jlkerkop-kpkihapit-barat-rt09-rw09-no82"
+  },
+  {
+    "id": "dijual-rumah-pancanaka-hill-cimahi-di-pa",
+    "category": "used",
+    "title": "Dijual Rumah Pancanaka Hill, Cibeber, Cimah Selatan di Shanghyang Pancanaka Hill, Cibeber, Cimah Selatan",
+    "complex": "Shanghyang Pancanaka Hill, Cibeber, Cimah Selatan",
+    "subdistrict": "Cimahi Selatan",
+    "city": "Kota Cimahi",
+    "price_asking": 700000000,
+    "price_net_estimate": 665000000,
+    "price_per_m2": 6666666,
+    "lt": 105,
+    "lb": 52,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floors": 1,
+    "carport": 1,
+    "electricity": "1300 VA",
+    "water": "Air Bersih Pegunungan / Jetpump",
+    "legal": "SHM (Sertifikat Hak Milik)",
+    "climate": "Ketinggian ~730 mdpl lereng perbukitan Cimahi. Suhu malam sejuk 23-25\u00b0C, bebas banjir.",
+    "commute": {
+      "motorcycle": "7-10 menit ke Baros/Unjani, 12 menit ke NHI/IBRM, 20-25 menit ke SMAK 2 Dulatip via Cijerah (bebas macet Kopo).",
+      "car": "6-8 menit ke Gerbang Tol Baros."
+    },
+    "family_fit_analysis": "Unit memiliki 2 kamar tidur dengan luas tanah 105 m\u00b2. Bisa ditambahkan kamar mezanin atau sisa tanah belakang untuk kamar ke-3 agar 4 orang tertampung mandiri.",
+    "contact": {
+      "type": "agent",
+      "name": "Rucita Permanasunu",
+      "phone": "081220000000",
+      "wa_link": "https://wa.me/6281220000000?text=Halo%20Rucita%20Permanasunu%2C%20saya%20tertarik%20dengan%20listing%20Dijual%20Rumah%20Pancanaka%20Hill%2C%20Cibeber%2C%20Cimah%20Selatan%20di%20Shanghyang%20Pancanaka%20Hill%2C%20Cibeber%2C%20Cimah%20Selatan%20seharga%20Rp%20700%20Jt%20di%20Pinhome.%20Apakah%20unit%20masih%20tersedia%20untuk%20disurvey%3F",
+      "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-pancanaka-hill-cimahi-di-pancanaka-hill-blok-yasa-cimahi"
+    },
+    "images": [
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/883df2a3-0c7d-4515-87e2-2a92d3816019.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/3bc0de6c-5b2a-4308-a5e6-0a9ca647e266.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/6de9ebce-d7fe-4efd-9b9a-3025462c40b0.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/47a7146f-78d4-445b-a5e4-891e2800c881.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/90f46f38-36d7-415c-8343-b3cc3f140f7f.jpg",
+      "https://img.pinhome.id/unsafe/plain/pinhome-production/secondary-listing/537dd408-4551-4bfe-8d99-e1642e7261b5.jpg"
+    ],
+    "badges": [
+      "Rumah Second",
+      "LT 105 m\u00b2",
+      "Bebas Macet Kopo"
+    ],
+    "source_name": "Pinhome Listing (Rucita Permanasunu)",
+    "source_url": "https://www.pinhome.id/dijual/rumah-sekunder/unit/dijual-rumah-pancanaka-hill-cimahi-di-pancanaka-hill-blok-yasa-cimahi"
   }
 ]
